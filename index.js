@@ -9,7 +9,7 @@ client.on('message', msg => {
 
     if(msg.content === 'fe')
     {
-        msg.reply('ELE É MUITO G0Y');
+        msg.reply('He is a bro');
     }
     
 });
