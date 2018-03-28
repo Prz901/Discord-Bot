@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', msg => {
 
-    if(msg.content === 'fe')
+    if(msg.content === 'fe' || msg.content ==='lu')
     {
         msg.reply('ELE É MUITO G0Y');
     }
