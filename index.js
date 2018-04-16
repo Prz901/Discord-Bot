@@ -14,6 +14,4 @@ client.on('message', msg => {
     
 });
 
-client.login('NDI4NjMzNjA2MjA3MDQ1NjMy.DZ178Q.SrZwICZ_BoR2NcwliKPf294Mxk4');
-
-
+client.login('api-token');
